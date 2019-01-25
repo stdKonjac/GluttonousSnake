@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="startBG.jpeg">images/startBG.jpeg</file>
+        <file alias="gameBG.jpg">images/gameBG.jpg</file>
+        <file alias="ScoreBoardBG.png">images/ScoreBoardBG.png</file>
+        <file alias="body.png">images/body.png</file>
+        <file alias="head.png">images/head.png</file>
+        <file alias="tail.png">images/tail.png</file>
+        <file alias="frog.png">images/frog.png</file>
+        <file alias="mouse.png">images/mouse.png</file>
+        <file alias="item.png">images/item.png</file>
+        <file>images/1397675-0a714724dde3600c.jpg</file>
+        <file>images/image_emoticon25.png</file>
+        <file>images/jieshu.png</file>
+        <file>images/kaishi.png</file>
+        <file>images/banzi.png</file>
+        <file>images/biaoti.png</file>
+    </qresource>
+</RCC>

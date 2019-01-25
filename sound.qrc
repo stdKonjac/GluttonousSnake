@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file alias="eat.wav">sounds/eat.wav</file>
+        <file alias="bgm.wav">sounds/bgm.wav</file>
+        <file alias="gameover.wav">sounds/gameover.wav</file>
+    </qresource>
+</RCC>
